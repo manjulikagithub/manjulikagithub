@@ -1,6 +1,5 @@
 # 💫 Hi 👋, I'm Manjulika Bachar
 **A passionate Competitive Programmer || Backend Developer  || Prefinal Year Engineering student from India**
-- 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** MERN Stack, Machine Learning & CP
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** Learning and growing everyday
